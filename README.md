@@ -42,17 +42,17 @@ You need to refer below specific implementation to see how all this happens for 
 ## Implementations
 
 ### Servers
-1. [Tomcat](microservice-starter-tomcat)
-2. [Jetty](microservice-starter-jetty)
-3. [Grizzly](microservice-starter-grizzly)
-4. [Netty](microservice-starter-netty)
-5. [Undertow](microservice-starter-undertow)
+1. [Tomcat](microservice-starter-tomcat/)
+2. [Jetty](microservice-starter-jetty/)
+3. [Grizzly](microservice-starter-grizzly/)
+4. [Netty](microservice-starter-netty/)
+5. [Undertow](microservice-starter-undertow/)
 
 ### Platform
-1. [Spring Boot](microservice-starter-springboot)
-2. [Wildfly Swarm](microservice-starter-wildflyswarm)
-3. [Red Hat Quarkus](microservice-starter-quarkus)
-4. [Oracle Helidon](microservice-starter-helidon)
+1. [Spring Boot](microservice-starter-springboot/)
+2. [Wildfly Swarm](microservice-starter-wildflyswarm/)
+3. [Red Hat Quarkus](microservice-starter-quarkus/)
+4. [Oracle Helidon](microservice-starter-helidon/)
 
 ## License
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FERS-HCL%2Fmicroservice-starter.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FERS-HCL%2Fmicroservice-starter?ref=badge_large)
